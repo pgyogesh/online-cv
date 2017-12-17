@@ -1,0 +1,11 @@
+- intro:
+  description: "Though I'm Administrator, I like writing scripts/programs in various languages such as Python, Shell, SQL, XQueyy"
+
+- project:
+  title: Greenplum
+  link: "www.github.com/pgyogesh/greenplum"
+  tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator."
+- project:
+  title: MarkLogic
+  link: "www.github.com/pgyogesh/marklogic"
+  tagline: "MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator."

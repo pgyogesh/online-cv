@@ -1,0 +1,17 @@
+- experience:
+  role: Big Data Administrator
+  time: 2015 - Present
+  company: Broadridge Finanacial Solutions, Hyderabad
+  details: "Broadridge is financial solution provider company, based in US. Here I'm performing all the administrative tasks for Greenplum Database Server such as maintaining database to perform well, taking backup(pg_dump,parallel,ddboost) and restoring the same, Working with developers for tuning the queries and advising session level parameter by understanding query resource requirements, Creating python,shell scripts to automate administrative tasks, Troubleshooting on various issues in case of failure and performance issues.
+
+  I'm also working as MarkLogic Database Server Administrator as perfmorming most of administrative tasks"
+- experience:
+  role: Pivotal Greenplum Support Engineer
+  time: 2015-4 ~ 2016-11
+  company: Wipro Technologies, Bangalore
+  details: "During 1.7+ years of experience as greenplum database support engineer, I have supported multiple greenplum database environment of Pivotal's customers. While working here, I have supprted all kind of severe issues like installing/upgrading/configuring Greenplum Database environment, Troubleshooting and recovering failed segment instances, Managing master failover issues, Confuguring Greenplum Command Center, Recommending Database Configuration as per customer's use case,Providing root cause analysis on issues to the customer and much more."
+- experience:
+  role: EMC DCA Support Engineer
+  time: 2014-10 ~ 2015-4
+  company: Wipro Technologies, Bangalore
+  details: "Here I worked as EMC DCA Support Engineer for EMC(Our Client). While working here, I supported global customers of EMC Data Computing Appliances with all types of hardware issues and failures."

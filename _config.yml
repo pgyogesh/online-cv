@@ -1,0 +1,34 @@
+# Site Settings
+title: My Resume
+url: 'http://pgyogesh.com'
+baseurl: '/online-cv' #change it according to your repository name
+
+# Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
+#style: styles-2
+#style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
+
+#Profile information
+name: Yogesh Jadhav
+tagline: Big Data Administrator
+pic: yogesh.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+summary: 'I am a Big Data Administrator and maintaining Greenplum Database as primary and MarkLogic Database Server as secondary at Broadridge Financial Solutions. Currently living in Hyderabad, India. Previously I have worked as Greenplum Database Support Engineer in Wipro Technologies for Pivotal Inc. My interests range from technology to travel. I am also interested in reading and listening to music.'
+
+#sidebar links
+email: yogeshjadhav96@gmail.com
+phone: +91-7676777797
+website: pgyogesh.com #do not add http://
+linkedin: pgyogesh
+github: pgyogesh
+twitter: '@pgyogesh_'
+#Update all the sections by editing the files inside _data folder.
+
+
+# Build settings
+encoding: "utf-8"
+compress_html: # - http://jch.penibelst.de/
+  clippings: all
+  ignore:
+    envs: development
