@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Yogesh Jadhav
 tagline: Big Data Administrator
 pic: yogesh.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'I am a Big Data Administrator and maintaining Greenplum Database as primary and MarkLogic Database Server as secondary at Broadridge Financial Solutions. Currently living in Hyderabad, India. Previously I have worked as Greenplum Database Support Engineer in Wipro Technologies for Pivotal Inc. My interests range from technology to travel. I am also interested in reading and listening to music.'
+summary: 'I am a Big Data Administrator and maintaining Greenplum Database as primary and MarkLogic Database Server as secondary at Broadridge Financial Solutions. Currently living in Hyderabad, India. Previously I have worked as Greenplum Database Support Engineer in Wipro Technologies for Pivotal Inc. My interests range from technology to travel. I am also interested in reading,blogging and listening to music. And I always try to be better version of myself.'
 
 #sidebar links
 email: yogeshjadhav96@gmail.com
