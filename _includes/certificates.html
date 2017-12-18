@@ -1,17 +1,17 @@
 {% if site.data.certificates %}
 <section class="section experiences-section">
-  <h2 class="section-title"><i class="fa fa-briefcase"></i>Certificates</h2>
+  <h2 class="section-title"><i class="fa fa-certificate"></i>Certificates</h2>
 
-{% for experience in site.data.certificates %}
+{% for certificate in site.data.certificates %}
   <div class="item">
 
     <div class="meta">
 
       <div class="upper-row">
-        <h3 class="job-title">{{ experience.name }}</h3>
+        <h3 class="job-title">{{ certificate.name }}</h3>
       </div><!--//upper-row-->
 
-      <div class="company">{{ experience.by }}</div>
+      <div class="company"> by {{ certificate.by }}</div>
 
     </div><!--//meta-->
   </div><!--//item-->
