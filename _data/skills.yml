@@ -2,13 +2,16 @@
   name: Greenplum Administration
   level: 98%
 - skill:
-  name: MarkLogic Administration
-  level: 40%
-- skill:
   name: PostgreSQL Administration
-  level: 60%
+  level: 70%
 - skill:
   name: Python Programming
+  level: 70%
+- skill:
+  name: Github
+  level: 70%  
+- skill:
+  name: MarkLogic Administration
   level: 60%
 - skill:
   name: Shell Scripting
