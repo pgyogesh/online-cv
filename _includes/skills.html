@@ -6,9 +6,10 @@
   <div class="skillset">
 
     {% for skill in site.data.skills %}
-    <h3 class="level-title"> RDBMS </h3>
-    <div class="item">
+    
 
+    <div class="item">
+      <h3 class="level-title">{{ skill.type }}</h3>
       <h3 class="level-title">{{ skill.name }}</h3>
 
       <div class="level-bar">
