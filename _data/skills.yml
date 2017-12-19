@@ -1,24 +1,24 @@
 - skill:
-  type: RDBMS
   name: Greenplum Administration
-  level: 98%
+  level: 95%
 - skill:
-  type: RDBMS
+  name: Linux
+  level: 80 %
+- skill:
   name: PostgreSQL Administration
   level: 70%
 - skill:
-  type: Programming
   name: Python Programming
   level: 70% 
 - skill:
-  type: NoSQL
   name: MarkLogic Administration
   level: 60%
 - skill:
-  type: Programming
   name: Shell Scripting
   level: 60%
 - skill:
-  type: Programming
   name: XQuery
   level: 50%
+- skill:
+  name: Amazon Web Services
+  level: 40%
