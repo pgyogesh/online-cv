@@ -2,7 +2,7 @@
   role: Big Data Administrator
   time: 2015 - Present
   company: Broadridge Finanacial Solutions, Hyderabad
-  details: "Broadridge is financial solution provider company, based in US. Here I'm performing all the administrative tasks for Greenplum Database Server such as maintaining database to perform well, taking backup(pg_dump,parallel,ddboost) and restoring the same, Working with developers for tuning the queries and advising session level parameter by understanding query resource requirements, Creating python,shell scripts to automate administrative tasks, Troubleshooting on various issues in case of failure and performance issues.
+  details: "Broadridge is financial solution provider company, based in US. Here I'm performing all the administrative tasks for Greenplum Database Server such as maintaining database to perform well, taking backup(pg_dump,parallel,ddboost) and restoring the same, Working with developers for tuning the queries and advising session level parameter by understanding query resource requirements, working with work load manager, Loading and unloading data using gpfdist, Managing Security of database, Creating python,shell scripts to automate administrative tasks, Troubleshooting on various issues in case of failure and performance issues.
 </br>
 </br>
 I'm also working as MarkLogic Database Server Administrator and perfmorming most of administrative tasks."
