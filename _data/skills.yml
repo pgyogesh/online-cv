@@ -2,9 +2,6 @@
   name: Greenplum Administration
   level: 95%
 - skill:
-  name: Linux Administration
-  level: 80%
-- skill:
   name: PostgreSQL Administration
   level: 70%
 - skill:
@@ -20,5 +17,8 @@
   name: XQuery
   level: 50%
 - skill:
-  name: Amazon Web Services
+  name: Linux Administration
   level: 40%
+- skill:
+  name: Amazon Web Services
+  level: 20%
