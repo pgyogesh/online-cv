@@ -3,9 +3,9 @@
 
 - project:
   title: Greenplum
-  link: "www.github.com/pgyogesh/greenplum"
+  link: "https://www.github.com/pgyogesh/greenplum"
   tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator."
 - project:
   title: MarkLogic
-  link: "www.github.com/pgyogesh/marklogic"
+  link: "https://www.github.com/pgyogesh/marklogic"
   tagline: "MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator."
