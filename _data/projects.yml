@@ -4,8 +4,10 @@
 - project:
   title: Greenplum
   link: "https://www.github.com/pgyogesh/greenplum"
-  tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator."
+  tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator. I hava developed a python utility to restore the greenplum backup in parallel even if we have different number of greenplum instances in environment and another utility to automate refresh the data between the environment like PROD to UAT and there are many python scripts"
+
 - project:
   title: MarkLogic
   link: "https://www.github.com/pgyogesh/marklogic"
   tagline: "MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator."
+  
