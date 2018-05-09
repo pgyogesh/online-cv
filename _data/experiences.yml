@@ -27,6 +27,9 @@ While working here, I have supported all kind of issues like:
   <li> Troubleshooting and recovering failed segment instances.</li> 
   <li> Managing master failover issues.</li>
   <li> Confuguring Greenplum Command Center.</li> 
+  <li> Working on greenplum expansion. </li>
+  <li> upgrading customer database both out of family databases as well minor upgrades. </li>
+  <li> Fixed catalogs for customer with inconsistencies in pg_class , pg_attribute,pg_type or persistent rebuilding regularly on customer system. </li>
   <li> Recommending Database Configuration as per customer's use case.</li>
   <li> Providing root cause analysis on issues to the customer and much more.</li>
 </ul>"
