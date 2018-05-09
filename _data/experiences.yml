@@ -4,14 +4,14 @@
   company: Broadridge Finanacial Solutions, Hyderabad
   details: "Broadridge is financial solution provider company, based in US. Here I'm performing all the administrative tasks for Greenplum Database Server such as: 
 <ul style='list-style-type:disc'>
-  <li> Maintaining database to perform well</li>
-  <li> Taking backup(pg_dump,parallel,ddboost) and restoring the same</li>
-  <li> Working with developers for tuning the queries and advising session level parameter by understanding query resource requirements</li>
-  <li> Working with work load manager </li>
-  <li> Loading and unloading data using gpfdist </li>
-  <li> Managing Security of database </li>
-  <li> Creating python,shell scripts to automate administrative tasks</li> 
-  <li> Troubleshooting on various issues in case of failure and performance issues </li> </ul> </br></br>
+  <li> Maintaining database to perform well.</li>
+  <li> Taking backup(pg_dump,parallel,ddboost) and restoring the same.</li>
+  <li> Working with developers for tuning the queries and advising session level parameter by understanding query resource requirements.</li>
+  <li> Working with work load manager. </li>
+  <li> Loading and unloading data using gpfdist. </li>
+  <li> Managing Security of database. </li>
+  <li> Creating python,shell scripts to automate administrative task.s</li> 
+  <li> Troubleshooting on various issues in case of failure and performance issues. </li></ul></br>
 I'm also working as MarkLogic Database Server Administrator and perfmorming most of administrative tasks."
 
 - experience:
@@ -23,11 +23,11 @@ I'm also working as MarkLogic Database Server Administrator and perfmorming most
 </br>
 While working here, I have supported all kind of issues like: 
 <ul style='list-style-type:disc'>
-  <li> Installing/upgrading/configuring Greenplum Database environment</li> 
-  <li> Troubleshooting and recovering failed segment instances</li> 
-  <li> Managing master failover issues</li>
-  <li> Confuguring Greenplum Command Center</li> 
-  <li> Recommending Database Configuration as per customer's use case</li>
+  <li> Installing/upgrading/configuring Greenplum Database environment.</li> 
+  <li> Troubleshooting and recovering failed segment instances.</li> 
+  <li> Managing master failover issues.</li>
+  <li> Confuguring Greenplum Command Center.</li> 
+  <li> Recommending Database Configuration as per customer's use case.</li>
   <li> Providing root cause analysis on issues to the customer and much more.</li>
 </ul>"
 - experience:
