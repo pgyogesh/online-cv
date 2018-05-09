@@ -2,7 +2,7 @@
   description: "Whenever I get time, I like to write codes. All my projects are available at my github site."
 
 - project:
-  title: Greenplum
+  title: <strong> Greenplum <strong>
   link: "https://www.github.com/pgyogesh/greenplum"
   tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator.
   <ul style='list-style-type:disc'>
@@ -10,7 +10,7 @@
     <li> <strong> <a href='http://pgyogesh.com/blog/greenplum/greenplum-environment-refresh/'> Data Refresh </a> </strong>: This is python utility to automate refresh the data between the environment like PROD to UAT. This utility takes care of moving data and changing the privileges according to environment"
 
 - project:
-  title: MarkLogic
+  title: <strong> MarkLogic <strong>
   link: "https://www.github.com/pgyogesh/marklogic"
   tagline: "MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator."
   
