@@ -6,8 +6,8 @@
   link: "https://www.github.com/pgyogesh/greenplum"
   tagline: "Greenplum Repository is collection of Python, Shell and SQL scripts for Greenplum Database Administrator.
   <ul style='list-style-type:disc'>
-    <li> <a href='http://pgyogesh.com/blog/greenplum/python/parallel-restore-using-python/'> Parallel restore </a>: This is python utility to restore the greenplum backup in parallel even if we have different number of greenplum instances in environment. </li>
-    <li> <a href='http://pgyogesh.com/blog/greenplum/greenplum-environment-refresh/'> Data Refresh </a>: This is python utility to automate refresh the data between the environment like PROD to UAT. This utility takes care of moving data and changing the privileges according to environment"
+    <li> <strong> <a href='http://pgyogesh.com/blog/greenplum/python/parallel-restore-using-python/'> Parallel restore </a> </strong>: This is python utility to restore the greenplum backup in parallel even if we have different number of greenplum instances in environment. </li>
+    <li> <strong> <a href='http://pgyogesh.com/blog/greenplum/greenplum-environment-refresh/'> Data Refresh </a> </strong>: This is python utility to automate refresh the data between the environment like PROD to UAT. This utility takes care of moving data and changing the privileges according to environment"
 
 - project:
   title: MarkLogic
