@@ -3,7 +3,7 @@
   time: 2016-11 ~ Present
   company: Broadridge Finanacial Solutions, Hyderabad
   details: "Broadridge is multinational financial solution provider company.
-  Greenplum:
+  <h5>Greenplum:</h5>
 <ul style='list-style-type:disc'>
   <li> Maintaining database to perform well.</li>
   <li> Taking backup(pg_dump,parallel,ddboost) and restoring the same.</li>
@@ -13,7 +13,7 @@
   <li> Managing Security of database. </li>
   <li> Creating python,shell scripts to automate administrative tasks.</li> 
   <li> Troubleshooting on various issues in case of failure and performance issues. </li></ul></br>
-  <h3>MarkLogic:</h3>
+  <h5>MarkLogic:</h5>
 <ul style='list-style-type:disc'>
   <li> Installing and upgrading Marklogic Server.</li>
   <li> Configuring database setting as per the requirement and resources available. </li>
