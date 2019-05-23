@@ -2,7 +2,8 @@
   role: Greenplum and MarkLogic Database Server Administrator
   time: 2016-11 ~ Present
   company: Broadridge Finanacial Solutions, Hyderabad
-  details: "Broadridge is financial solution provider company, based in US. Here I'm performing all the administrative tasks for Greenplum Database Server such as: 
+  details: "Broadridge is multinational financial solution provider company.
+  Greenplum:
 <ul style='list-style-type:disc'>
   <li> Maintaining database to perform well.</li>
   <li> Taking backup(pg_dump,parallel,ddboost) and restoring the same.</li>
@@ -12,7 +13,18 @@
   <li> Managing Security of database. </li>
   <li> Creating python,shell scripts to automate administrative tasks.</li> 
   <li> Troubleshooting on various issues in case of failure and performance issues. </li></ul></br>
-I'm also working as MarkLogic Database Server Administrator and perfmorming most of administrative tasks."
+  <h3>MarkLogic:</h3>
+<ul style='list-style-type:disc'>
+  <li> Installing and upgrading Marklogic Server.</li>
+  <li> Configuring database setting as per the requirement and resources available. </li>
+  <li> Performing database maintenance like reindexing, merging, rebalancing and etc. </li>
+  <li> Working on database backups and database refresh within the environments. </li>
+  <li> Automating administrative tasks using python and REST API as well as Shell scripting. </li>
+  <li> Managing Security of database. </li>
+  <li> Working with Application team on deployments. </li>
+  <li> Building corb2 jobs to perform jobs in batch like deletion, permission updates and etc. </li>
+  <li> Working with mlcp utility for importing and exporting data. </li>
+ </u> 
 
 - experience:
   role: Pivotal Greenplum Support Engineer
