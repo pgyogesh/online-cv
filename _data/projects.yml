@@ -14,4 +14,4 @@
   link: "https://www.github.com/pgyogesh/marklogic"
   tagline: "MarkLogic Repository is collection scripts, notes for MarkLogic Database Administrator.
   <ul style='list-style-type:disc'>
-    <li> <strong> <u> <a href='http://blog.pgyogesh.com/marklogic/python/forest-restore-parallel/'> Forest restore </a> </u> </strong>: This is to automate restore when we are restoring backup in database which has different number of forests and forests names are mismatching. This also works parallely meaning it can start multiple forest restore at same time. </li> <br>"
+    <li> <strong> <u> <a href='http://blog.pgyogesh.com/marklogic/python/forest-restore-parallel/'> Forest restore </a> </u> </strong>: This is to automate restore when we are restoring backup in database which has different number of forests and forests names are mismatching. This also works parallely meaning it can start multiple forest restore at same time." </li> <br>
