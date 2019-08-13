@@ -1,4 +1,9 @@
 - certificate:
+  name: AWS Solution Architect - Associate
+  by: Amazon Web Services
+  time: 2019-08
+
+- certificate:
   name: Fundamentals of Marklogic Server
   by: MarkLogic University
   time: 2017-01
@@ -7,5 +12,3 @@
   name: Administrating Marklogic Server
   by: MarkLogic University
   time: 2017-06
-  
-  
