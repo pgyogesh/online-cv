@@ -1,7 +1,13 @@
 - experience:
+  role: Senior Database Administrator
+  time: 2020-05 ~ Now
+  company: Epsilon India, Bangalore
+  details: Epsilon is a global marketing company. I have joined this organisation recently and will be supporting Greenplum and PostgreSQL database.
+
+- experience:
   role: Greenplum and MarkLogic Database Server Administrator
-  time: 2016-11 ~ Present
-  company: Broadridge Finanacial Solutions, Hyderabad
+  time: 2016-11 ~ 2020-05
+  company: Broadridge Finanacial Solutions, Bangalore
   details: "Broadridge is multinational financial solution provider company.
   <h5>Greenplum:</h5>
 <ul style='list-style-type:disc'>
