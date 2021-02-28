@@ -27,15 +27,12 @@
 <li> Experienced in Performance Tuning Query Optimization,Client/Server Connectivity and Database consistency checks using diferent utilities.</li>
 <li> Experience in monitoring and maintaining testing and production environments.</li>
 <li> Implement and configured PostgreSQL Replication for hotStandby,Synchronous and Asynchronous types of replication and handled.</li>
-<li> Experience in Backup & Recovery using PG_DUMP,BART tool and Report to Client.</li>
-<li> Expertise in Failover using EFM-Enterprisedb Failover Managerin PostgreSQL.</li>
+<li> Experience in Backup & Recovery using PG_DUMP,pg_backrest.</li>
 <li> Creation of Clone Database for Development/Testing Environments.</li>
 <li> Proficient in PostgreSQL DBAactivities including configuration settings. database index creation, maintained and Queryoptimization.</li>
 <li> Implementing and maintaining database security by creating roles and its privileges.</li>
 <li> Monitoring the production PostgreSQL alert logs for database errors,controling the database connections clearing the blockings to take necessary actions to rectify them. </li>
 <li> Worked on Vacuum-Reindexing-Analyzing the databases in PostgreSQL</li>
-<li> Worked on EDB backup and RecoveryTool(BART).</li>
-<li> Implementing and configured pgbouncer,pg_pool, Monitoring CPU load and Memory Utilization.</li>
 <li> Formulated Auto-vacuum for various Databases.</li>
 <li> Scheduling the jobs in Crontab.</li>
 </ul></br>
