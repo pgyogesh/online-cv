@@ -2,10 +2,10 @@
   role: Senior Database Administrator
   time: 2020-05 ~ Now
   company: Epsilon India, Bangalore
-  details: "Epsilon is a global marketing company. I have joined this organisation recently and I'm supporting Greenplum and PostgreSQL database."
+  details: "Epsilon is a global marketing company. I have joined this organisation recently and I'm supporting Greenplum and PostgreSQL database.
   <h5>Greenplum and PostgreSQL:</h5>
   <li> I'm doing all the activities I did in my previous organization </li>
-  <li> Additionally, I'm involved into Open Source Migration team which works on setting up automation and monitoring using tools like Graphana and Python Programming Langauge </li>
+  <li> Additionally, I'm involved into Open Source Migration team which works on setting up automation and monitoring using tools like Graphana and Python Programming Langauge </li>"
 
 - experience:
   role: Greenplum and MarkLogic Database Server Administrator
